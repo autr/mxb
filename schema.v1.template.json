@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"sources": {
+		"type": 1,
+		"path": "testcard.png"
+	},
+	"media": [],
+	"parameters": {},
+	"project": {
+		"setup": "",
+		"update": "",
+		"draw": ""
+	},
+	"record": {
+		"enabled": false,
+		"filename": "recording",
+		"status": 0
+	},
+	"components": []
+}
